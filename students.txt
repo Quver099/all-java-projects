@@ -1,0 +1,2 @@
+1;maria;80
+2;albert ;80
